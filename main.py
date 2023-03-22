@@ -9,7 +9,7 @@ from pytube import Playlist
 from youtubesearchpython import VideosSearch
 
 bot = commands.Bot(command_prefix='-')
-token = 'Nzg0ODU1OTE2NDI4MjYzNDc0.X8vYCA.QPNHuitNyzTWAFxBXaA7fXskrjE'
+token = 'Тут токен'
 play_list = []
 
 # YDL_OPTIONS = {'format': 'bestaudio', 'noplaylist': 'False'}
